@@ -1,5 +1,8 @@
-#!/usr/bin/pyrhon3
+#!/usr/bin/python3
+# 0-square.py
+"""Defines a square """
+
 
 class Square:
-
-	pass
+    """Does nothing"""
+    pass
